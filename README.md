@@ -4,7 +4,7 @@ NOME DOS INTEGRANTES:
 
 - Giovana Zani
 - Maria Fernanda Buarque
-- Link do GitHub Pages: COLOQUE O LINK AQUI 
+- Link do GitHub Pages: https://giovanazani.github.io/26.2-desafio-css/ 
 
 ## Desafio CSS
 
